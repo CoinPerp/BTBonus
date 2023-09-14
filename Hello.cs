@@ -3,6 +3,6 @@ using System;
 class Program 
 { 
     { 
-        Console.WriteLine("Hello, C#!"); 
+        Console.WriteLine("Hello from the other side, C#!"); 
     } 
 } 
